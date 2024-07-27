@@ -1,6 +1,6 @@
-# Hi there 👋 I'm Ratnesh Kumar Sharma!
+# My dear 👋 I'm Ratnesh Kumar Sharma!
 
-Welcome to my GitHub profile! I'm passionate about machine learning, synthetic biology, and minimal genome editing technologies. I enjoy solving complex problems and creating innovative solutions in the field of biotechnology.
+Welcome to my GitHub profile!
 
 ## 🚀 About Me
 - 🌱 I’m currently working on: something very interesting and exiting...
