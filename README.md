@@ -1,8 +1,8 @@
 # Hi everyone, I'm Ratnesh Kumar Sharma!
 
 ## 🚀 About Me
-- 🌱 I’m currently working on: something very interesting and exciting...
-- 💬 Ask me about: Gene editing, machine learning, biotechnology, and **meditation**.
+- 🌱 I’m currently working on: something very interesting and exciting.
+- 💬 Ask me about: Gene editing, machine learning, and **meditation**.
 - ⚡ Fun fact: I'm an avid reader. [A Journey Through Pages](https://medium.com/@rksiitd/a-journey-through-pages-21d79c7446c4)
 
 ## 🏆 Words of Wisdom
@@ -15,4 +15,4 @@
 - **Email:** [mail.ratneshks@gmail.com](mailto:mail.ratneshks@gmail.com)
 - **WhatsApp:** [919708581960](https://wa.me/919708581960)
 
-Thanks for visiting my profile! Feel free to connect with me on any of the social platforms listed above.
+Feel free to connect with me on any of the social platforms listed above.
