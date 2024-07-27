@@ -19,8 +19,11 @@ Feel free to connect with me on any of the social platforms listed above.
 
 ## Inspiration
 
-<a href="https://x.com/craigzLiszt/status/1816649282214310196" target="_blank">
-  <img src="tweet.png" alt="Sit down, be humble, and work 14+ hours/day" style="max-width: 100%;">
-</a>
+<blockquote class="twitter-tweet">
+  <p lang="en" dir="ltr">Sit down, be humble, and work 14+ hours/day</p>&mdash; Craig Weiss (@craigzLiszt) <a href="https://twitter.com/craigzLiszt/status/1816649282214310196?ref_src=twsrc%5Etfw">July 26, 2024</a>
+</blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-> [Sit down, be humble, and work 14+ hours/day](https://x.com/craigzLiszt/status/1816649282214310196) - Craig Weiss
+## Inspiration
+
+[Sit down, be humble, and work 14+ hours/day](https://twitter.com/craigzLiszt/status/1816649282214310196) - Craig Weiss
