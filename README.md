@@ -16,3 +16,11 @@
 - **WhatsApp:** [919708581960](https://wa.me/919708581960)
 
 Feel free to connect with me on any of the social platforms listed above.
+
+## Inspiration
+
+<a href="https://x.com/craigzLiszt/status/1816649282214310196" target="_blank">
+  <img src="tweet.png" alt="Sit down, be humble, and work 14+ hours/day" style="max-width: 100%;">
+</a>
+
+> [Sit down, be humble, and work 14+ hours/day](https://x.com/craigzLiszt/status/1816649282214310196) - Craig Weiss
