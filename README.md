@@ -13,9 +13,8 @@
 
 ## 📬 Contact
 - **Email:** [mail.ratneshks@gmail.com](mailto:mail.ratneshks@gmail.com)
-- **WhatsApp:** [919708581960](https://wa.me/919708581960)
-
-Feel free to connect with me on any of the social platforms listed above.
+- 
+Feel free to connect with me on any of the social platforms listed here.
 
 ## 📊 Stats
 <table>
