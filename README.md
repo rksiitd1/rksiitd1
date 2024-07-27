@@ -5,7 +5,7 @@ Welcome to my GitHub profile!
 ## 🚀 About Me
 - 🌱 I’m currently working on: something very interesting and exiting...
 - 💬 Ask me about: Gene editing, machine learning, biotechnology, and **meditation**.
-- ⚡ Fun fact: I'm an avid reader and have read over 60 books on various topics. [A Journey Through Pages](https://medium.com/@rksiitd/a-journey-through-pages-21d79c7446c4)
+- ⚡ Fun fact: I'm an avid reader. [A Journey Through Pages](https://medium.com/@rksiitd/a-journey-through-pages-21d79c7446c4)
  
 ## 🛠️ Skills
 - **Programming Languages:** C, C++, Python, R, SML, HTML, CSS, etc.
