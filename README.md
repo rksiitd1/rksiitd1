@@ -1,7 +1,7 @@
 # Hi everyone, I'm Ratnesh Kumar Sharma!
 
 ## 🚀 About Me
-- 🌱 I’m currently working on: something very interesting and exiting...
+- 🌱 I’m currently working on: something very interesting and exciting...
 - 💬 Ask me about: Gene editing, machine learning, biotechnology, and **meditation**.
 - ⚡ Fun fact: I'm an avid reader. [A Journey Through Pages](https://medium.com/@rksiitd/a-journey-through-pages-21d79c7446c4)
 
