@@ -1,23 +1,9 @@
-# My dear 👋 I'm Ratnesh Kumar Sharma!
-
-Welcome to my GitHub profile!
+Hi everyone, I'm Ratnesh Kumar Sharma!
 
 ## 🚀 About Me
 - 🌱 I’m currently working on: something very interesting and exiting...
 - 💬 Ask me about: Gene editing, machine learning, biotechnology, and **meditation**.
 - ⚡ Fun fact: I'm an avid reader. [A Journey Through Pages](https://medium.com/@rksiitd/a-journey-through-pages-21d79c7446c4)
- 
-## 🛠️ Skills
-- **Programming Languages:** C, C++, Python, R, SML, HTML, CSS, etc.
-- **Technologies:** MATLAB, Simulink, Autodesk Inventor Professional, MS Office, VMD, Google Colab, AlphaFold etc.
-- **Technical Skills:** Machine learning, web devlopment, genome editing, protein production optimization
-- **Soft Skills:** Strategic thinking, imagination, mediation and much more.
-
-## 📚 Education
-### Indian Institute of Technology Delhi
-- **Degree:** B.Tech in Biochemical Engineering & Biotechnology
-- **Graduation Year:** 2023
-- **Activities and Societies:** Volunteer for OCS placement activities, initiated anti-cheating measures, introduced official PYQ collections.
 
 ## 🏆 Words of Wisdom
 - "Time changes everything."
