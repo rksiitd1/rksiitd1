@@ -18,9 +18,16 @@
 Feel free to connect with me on any of the social platforms listed above.
 
 ## 📊 Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rksiitd1&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=rksiitd1&layout=compact&theme=radical)
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=rksiitd1&show_icons=true&theme=radical" alt="GitHub stats" />
+    </td>
+    <td valign="top" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rksiitd1&layout=compact&theme=radical" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
 ## Inspiration
 
