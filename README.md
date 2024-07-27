@@ -20,9 +20,7 @@ Feel free to connect with me on any of the social platforms listed above.
 ## 📊 Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rksiitd1&show_icons=true&theme=radical)
 
-# Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=your-github-username&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=rksiitd1&layout=compact&theme=radical)
 
 ## Inspiration
 
