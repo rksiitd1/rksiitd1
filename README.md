@@ -17,6 +17,9 @@
 
 Feel free to connect with me on any of the social platforms listed above.
 
+## 📊 Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rksiitd1&show_icons=true&theme=radical)
+
 ## Inspiration
 
 <blockquote class="twitter-tweet">
