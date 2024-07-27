@@ -12,7 +12,7 @@
 - "Organized planning is important for doing almost anything and everything."
 
 ## 📬 Contact
-- **Email:** [mail.ratneshks@gmail.com](mailto:mail.ratneshks@gmail.com)
+**Email:** [mail.ratneshks@gmail.com](mailto:mail.ratneshks@gmail.com)
 
 Feel free to connect with me on any of the social platforms listed here.
 
