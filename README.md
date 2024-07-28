@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 - 🌱 I’m currently working on: something very interesting and exciting.
-- 💬 Ask me about: Gene editing, machine learning, and **meditation**.
+- 💬 Ask me about: gene editing, machine learning, and **meditation**.
 - ⚡ Fun fact: I'm an avid reader. [A Journey Through Pages](https://medium.com/@rksiitd/a-journey-through-pages-21d79c7446c4)
 
 ## 🏆 Words of Wisdom
