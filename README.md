@@ -3,7 +3,7 @@
 ## 🚀 About Me
 - 🌱 I’m currently working on: something very interesting and exciting.
 - 💬 Ask me about: gene editing, machine learning, and **meditation**.
-- ⚡ Fun fact: I'm an avid reader. [A Journey Through Pages](https://medium.com/@rksiitd/a-journey-through-pages-21d79c7446c4)
+- ⚡ Fun fact: I like reading books. [A Journey Through Pages](https://medium.com/@rksiitd/a-journey-through-pages-21d79c7446c4)
 
 ## 🏆 Words of Wisdom
 - "Time changes everything."
